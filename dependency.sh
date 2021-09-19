@@ -1,1 +1,1 @@
-pacman -S ttf-font-awsome alacritty picom nitrogen alsa-utils cmus xorg-setxkbmap extra/mpc wpa_supplicant networkmanager networkmanager-openvpn calcurse transmission-remote-gtk xorg-xbacklight connman curl pamixer spotifyd playerctl
+pacman -S ttf-font-awesome alacritty picom nitrogen alsa-utils cmus xorg-setxkbmap extra/mpc wpa_supplicant networkmanager networkmanager-openvpn calcurse transmission-remote-gtk xorg-xbacklight connman curl pamixer spotifyd playerctl
